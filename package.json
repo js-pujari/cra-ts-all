@@ -13,7 +13,7 @@
     "template",
     "cra-template"
   ],
-  "description": "React with typescript-template, Redux, React-router complete pack for Create React App template.",
+  "description": "React with typescript-template, redux, react-router complete pack for Create React App template.",
   "author": "js-pujari",
   "main": "template.json",
   "repository": {

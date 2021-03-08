@@ -5,16 +5,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## What is this ?
 
 This is CRA template where you can get complete react setup with
-* **React typescript**
+* **react**
+* **typescript**
 * **react-router**
 * **react-redux**
 * **Sample navigation flow and redux dispatch and consume data**
+
+If you are looking for CRA template with **js, react-router, redux** then click here [cra-template-js-all](https://www.npmjs.com/package/cra-template-js-all).
 
 ## Installation
 
 `npx create-react-app project-name --template ts-all`
 
 ## Available Scripts
+
+`cd project-name`
 
 In the project directory, you can run:
 
