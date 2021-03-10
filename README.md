@@ -13,6 +13,8 @@ This is CRA template where you can get complete react setup with
 
 If you are looking for CRA template with **js, react-router, redux** then click here [cra-template-js-all](https://www.npmjs.com/package/cra-template-js-all).
 
+If you are looking for any js usefull **utility functions**, you can find here.[js-util-methods](https://www.npmjs.com/package/js-util-methods).
+
 ## Installation
 
 `npx create-react-app project-name --template ts-all`
