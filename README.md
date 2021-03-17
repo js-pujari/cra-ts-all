@@ -13,6 +13,9 @@ This is CRA template where you can get complete react setup with
 
 If you are looking for CRA template with **js, react-router, redux** then click here [cra-template-js-all](https://www.npmjs.com/package/cra-template-js-all).
 
+* For static server to serve your static build folder use package with (< kb) size.
+  [ind-js-server](https://www.npmjs.com/package/ind-js-server).
+
 If you are looking for any js usefull **utility functions**, you can find here.[js-util-methods](https://www.npmjs.com/package/js-util-methods).
 
 ## Installation
